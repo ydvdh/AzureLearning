@@ -6,3 +6,6 @@
 /AzureBlob/AzureBlob/wwwroot
 /AzureBlob/.vs/AzureBlob
 /AzureBlob/AzureBlob/bin/Debug/net6.0
+/AzureFunctionWeb/bin/Debug/net6.0
+/AzureFunctionWeb/obj
+/AzureFunctionWeb/wwwroot
