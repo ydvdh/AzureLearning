@@ -9,3 +9,6 @@
 /AzureFunctionWeb/bin/Debug/net6.0
 /AzureFunctionWeb/obj
 /AzureFunctionWeb/wwwroot
+/AzureLogicApp/bin/Debug/net6.0
+/AzureLogicApp/obj
+/AzureLogicApp/wwwroot
